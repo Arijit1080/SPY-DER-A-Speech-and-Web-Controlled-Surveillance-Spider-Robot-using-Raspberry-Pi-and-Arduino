@@ -1,0 +1,58 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-image: url();
+}
+
+.header {
+    padding-top: 40px;
+    text-align: center;
+}
+
+.btn {
+    width: 200px;
+    height: 50px;
+    cursor: pointer;
+    border: 1px solid #91C9FF;
+    opacity: 0.8;
+    /*background: transparent;*/
+    background-color: green;
+    color: white;
+}
+
+.btn:hover {
+    background: red;
+}
+
+.section {
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.section1 {
+    margin-top: 50px;
+}
+
+.custom {
+    margin: 20px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+i {
+    font-size: 90px;
+    color: darkviolet;
+}
+
+.container-fluid {
+    padding-top: 60px;
+    padding-bottom: 40px;
+}
+
+footer {
+    background-color: lightblue;
+    size: 20px;
+}
